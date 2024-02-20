@@ -25,8 +25,8 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 - How to transition from making coffee to coding apps that make life easier.
 
 ### 📫 How to reach me:
-- **LinkedIn:** [Let's Connect!](#https://www.linkedin.com/in/glenn-quah-59390a18b/)
-- **My Portfolio Website:** [Check Out My Work!](#https://glennquah.github.io/Portfolio-Website-Glenn/)
+- **LinkedIn:** [Let's Connect!](https://www.linkedin.com/in/glenn-quah-59390a18b/)
+- **My Portfolio Website:** [Check Out My Work!](https://glennquah.github.io/Portfolio-Website-Glenn/)
 
 ### 🤝 Open to:
 - Coffee chats in Oslo or virtual meetups.
