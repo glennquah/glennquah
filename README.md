@@ -12,7 +12,7 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 ### More About Me
 - **From Barista to Brainiac:** Journeyed from mastering lattes at Starbucks to engineering codes that might just change the world.
 - **Team Player:** Whether it's leading a platoon or climbing with the NUS Climbing Club, I believe in the power of teamwork.
-- **Innovator at Heart:** From ConnectCard's QR magic to gamifying productivity with EARN O'CLOCK, I'm all about turning ideas into reality.
+- **Innovator at Heart:** From [ConnectCard's](https://github.com/glennquah/ConnectCard) QR magic to gamifying productivity with [EARN O'CLOCK](https://github.com/glennquah/EarnOClock), I'm all about turning ideas into reality.
 
 ### 🌱 I’m currently learning...
 - The secrets of Norwegian culture and how to make the perfect Skolebrød.
