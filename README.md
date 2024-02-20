@@ -1,6 +1,6 @@
 # 🌟 Glenn Quah Han Rong 🌟
 
-## Full-Stack Developer | Aspiring Full-Stack Developer | Innovation Explorer
+## Full-Stack Developer | Innovation Explorer
 
 Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator all rolled into one. Currently soaking up the Nordic vibes in Oslo, Norway, I'm living my dream as a Full-Stack Developer at Urban Sharing, thanks to the amazing NUS Overseas Colleges program.
 
