@@ -32,5 +32,8 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 - Collaborations on exciting tech projects.
 - Sharing experiences about studying abroad and working in the tech industry.
 
+### White-labelled Business:
+- Running a white-labelled `Portfolio-web`, `Landing Page` & `Quiz` repo. If interested, feel free to contact me so I can give you your own "White-Labelled" product you can customize within seconds.
+
 ### Fun Fact:
 I once supervised the daily operations of a Starbucks, ensuring every cup was perfect. Now, I apply the same dedication to my code – every line, every function, aiming for perfection.
