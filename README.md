@@ -40,7 +40,7 @@ I once supervised the daily operations of a Starbucks, ensuring every cup was pe
 
 ### Try My Applications:
 Here are some of the (deployed) Apps that I built along the way.
-- **Portfolio Website (WhiteLabelled w 3 deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
+- **Portfolio Website (WhiteLabelled w multiple deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
 - **EcoMonitor Pro:** [https://eco-monitor-pro.vercel.app/](https://eco-monitor-pro.vercel.app/)
 - **EcoVolt Public Page:** [https://eco-monitor-pro.vercel.app/](https://ecovolt.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
