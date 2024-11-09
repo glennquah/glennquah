@@ -37,3 +37,13 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 
 ### Fun Fact:
 I once supervised the daily operations of a Starbucks, ensuring every cup was perfect. Now, I apply the same dedication to my code – every line, every function, aiming for perfection.
+
+### Try My Applications:
+Here are some of the (deployed) Apps that I built along the way.
+- **Portfolio Website (WhiteLabelled w 3 deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
+- **EcoMonitor Pro:** [https://eco-monitor-pro.vercel.app/](https://eco-monitor-pro.vercel.app/)
+- **EcoVolt Public Page:** [https://eco-monitor-pro.vercel.app/](https://ecovolt.vercel.app/)
+- **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
+- **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
+- **ConnectCard (Name card phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
+
