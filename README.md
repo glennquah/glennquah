@@ -45,5 +45,5 @@ Here are some of the (deployed) Apps that I built along the way.
 - **EcoVolt Public Page:** [https://eco-monitor-pro.vercel.app/](https://ecovolt.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
 - **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
-- **ConnectCard (Name card phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
+- **ConnectCard (Namecard phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
 
