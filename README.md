@@ -7,11 +7,11 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 ### 🚀 What I'm Up To:
 - Developing seamless digital solutions remotely for **Urban Sharing** while juggling my studies.
 - Continuing my journey in **Information Systems at the National University of Singapore**, aiming for that sweet First Class Honours.
-- Sipping on kopi in Singapore's bustling cafés, reminiscing about Skolebrød and Oslo's charm.
+- Sipping on Kopi in Singapore's bustling cafés, reminiscing about Skolebrød and Oslo's charm.
 
 ### More About Me
 - **From Barista to Brainiac:** Journeyed from mastering lattes at Starbucks to engineering codes that might just change the world.
-- **Innovator at Heart:** From [ConnectCard's](https://github.com/glennquah/ConnectCard) QR magic to gamifying productivity with [EARN O'CLOCK](https://github.com/glennquah/EarnOClock), I'm all about turning ideas into reality.
+- **Innovator at Heart:** From [EcoVolt's](https://sales.ecomonitorpro.com/) AI technology to reduce idle energy to creating blockchain dApps and [NFTRoaster's](https://github.com/glennquah/Coffee-Market-Place-Dapp), I’m all about turning ideas into reality.
 
 ### 🌱 I’m currently learning...
 - The art of balancing academics and remote work.
@@ -46,5 +46,6 @@ Here are some of the (deployed) Apps that I built along the way.
 - **Retirement Cafe:** [https://retirement-cafe.vercel.app/](https://retirement-cafe.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
 - **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
+- **Jamboree (Multi-lingual Charades Game for NTUC Health Hub):** [https://jamboree-charades.vercel.app/](https://jamboree-charades.vercel.app/)
 - **ConnectCard (Namecard phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
 
