@@ -32,9 +32,6 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 - Collaborations on exciting tech projects.
 - Sharing experiences about studying abroad and working in the tech industry.
 
-### White-labelled Business:
-- Running a white-labelled `Portfolio-web`, `Landing Page` & `Quiz` repo. If interested, feel free to contact me so I can give you your own "White-Labelled" product you can customize within seconds.
-
 ### Fun Fact:
 I once supervised the daily operations of a Starbucks, ensuring every cup was perfect. Now, I apply the same dedication to my code – every line, every function, aiming for perfection.
 
@@ -43,7 +40,7 @@ Here are some of the (deployed) Apps that I built along the way.
 - **Portfolio Website (WhiteLabelled w multiple deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
 - **EcoMonitor Pro:** [https://www.ecomonitorpro.com/](https://www.ecomonitorpro.com/)
 - **EcoVolt Public Page:** [https://sales.ecomonitorpro.com/](https://sales.ecomonitorpro.com/)
-- **Retirement Cafe:** [https://retirement-cafe.vercel.app/](https://retirement-cafe.vercel.app/)
+- **Retirement Cafe:** [https://brew-sh-nhouse.vercel.app/](https://brew-sh-nhouse.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
 - **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
 - **Jamboree (Multi-lingual Charades Game for NTUC Health Hub):** [https://jamboree-charades.vercel.app/](https://jamboree-charades.vercel.app/)
