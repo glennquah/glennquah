@@ -37,12 +37,15 @@ I once supervised the daily operations of a Starbucks, ensuring every cup was pe
 
 ### Try My Applications:
 Here are some of the (deployed) Apps that I built along the way.
-- **Portfolio Website (WhiteLabelled w multiple deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
-- **EcoMonitor Pro:** [https://www.ecomonitorpro.com/](https://www.ecomonitorpro.com/)
 - **EcoVolt Public Page:** [https://sales.ecomonitorpro.com/](https://sales.ecomonitorpro.com/)
+- **EcoMonitor Pro:** [https://www.ecomonitorpro.com/](https://www.ecomonitorpro.com/)
 - **Retirement Cafe:** [https://brew-sh-nhouse.vercel.app/](https://brew-sh-nhouse.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
-- **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
 - **Jamboree (Multi-lingual Charades Game for NTUC Health Hub):** [https://jamboree-charades.vercel.app/](https://jamboree-charades.vercel.app/)
+- **RiseWell (AIoT Alarm Clock):** [https://rise-well.vercel.app/](https://rise-well.vercel.app/)
+- **White Labelled Quiz (Quiz for CPF):** [https://cpf-quizzes.vercel.app/](https://cpf-quizzes.vercel.app/)
+- **Portfolio Website (WhiteLabelled w multiple deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
+- **Tech Consultanting LP:** [https://duobytes.vercel.app/](https://duobytes.vercel.app/)
+- **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
 - **ConnectCard (Namecard phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
 
