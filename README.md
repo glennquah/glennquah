@@ -39,6 +39,7 @@ I once supervised the daily operations of a Starbucks, ensuring every cup was pe
 Here are some of the (deployed) Apps that I built along the way.
 - **EcoVolt Public Page:** [https://sales.ecomonitorpro.com/](https://sales.ecomonitorpro.com/)
 - **EcoMonitor Pro:** [https://www.ecomonitorpro.com/](https://www.ecomonitorpro.com/)
+- **EcoVolt APIs:** [https://api.ecomonitorpro.com/api](https://api.ecomonitorpro.com/api)
 - **Retirement Cafe:** [https://brew-sh-nhouse.vercel.app/](https://brew-sh-nhouse.vercel.app/)
 - **NFT Roasters (Coffee Market Place Dapp):** [https://nft-roaster.vercel.app/](https://nft-roaster.vercel.app/)
 - **Jamboree (Multi-lingual Charades Game for NTUC Health Hub):** [https://jamboree-charades.vercel.app/](https://jamboree-charades.vercel.app/)
