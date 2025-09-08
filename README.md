@@ -11,7 +11,7 @@ Hello there! I'm Glenn, a coding aficionado, globe-trotter, and tech innovator a
 
 ### More About Me
 - **From Barista to Brainiac:** Journeyed from mastering lattes at Starbucks to engineering codes that might just change the world.
-- **Innovator at Heart:** From [EcoVolt's](https://sales.ecomonitorpro.com/) AI technology to reduce idle energy to creating blockchain dApps and [NFTRoaster's](https://github.com/glennquah/Coffee-Market-Place-Dapp), I’m all about turning ideas into reality.
+- **Innovator at Heart:** From [EcoVolt's](https://ecovolt.ai/) AI technology to reduce idle energy to creating blockchain dApps and [NFTRoaster's](https://github.com/glennquah/Coffee-Market-Place-Dapp), I’m all about turning ideas into reality.
 
 ### 🌱 I’m currently learning...
 - The art of balancing academics and remote work.
@@ -37,7 +37,7 @@ I once supervised the daily operations of a Starbucks, ensuring every cup was pe
 
 ### Try My Applications:
 Here are some of the (deployed) Apps that I built along the way.
-- **EcoVolt Public Page:** [https://sales.ecomonitorpro.com/](https://sales.ecomonitorpro.com/)
+- **EcoVolt Public Page:** [https://sales.ecomonitorpro.com/](https://www.ecovolt.ai/)
 - **EcoMonitor Pro:** [https://www.ecomonitorpro.com/](https://www.ecomonitorpro.com/)
 - **EcoVolt APIs:** [https://api.ecomonitorpro.com/api](https://api.ecomonitorpro.com/api)
 - **Retirement Cafe:** [https://brew-sh-nhouse.vercel.app/](https://brew-sh-nhouse.vercel.app/)
@@ -45,7 +45,7 @@ Here are some of the (deployed) Apps that I built along the way.
 - **Jamboree (Multi-lingual Charades Game for NTUC Health Hub):** [https://jamboree-charades.vercel.app/](https://jamboree-charades.vercel.app/)
 - **RiseWell (AIoT Alarm Clock):** [https://rise-well.vercel.app/](https://rise-well.vercel.app/)
 - **White Labelled Quiz (Quiz for CPF):** [https://cpf-quizzes.vercel.app/](https://cpf-quizzes.vercel.app/)
-- **Portfolio Website (WhiteLabelled w multiple deployments):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
+- **Portfolio Website (WhiteLabelled w multiple deployments (3)):** [https://glenn-quah.vercel.app/](https://glenn-quah.vercel.app/)
 - **Tech Consulting LP:** [https://duobytes.vercel.app/](https://duobytes.vercel.app/)
 - **Bytes By Bites (Meal Tracking Bot):** [https://t.me/BitesByBytes_Bot](https://t.me/BitesByBytes_Bot)
 - **ConnectCard (Namecard phone Application):** [https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b](https://drive.google.com/drive/folders/1O12f7ssKgRxBMdYrVPpWWC6XTMhmSG5b)
